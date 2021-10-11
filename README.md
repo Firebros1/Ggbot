@@ -9,3 +9,5 @@ Ggbot is a hypercustomizable bot, that lets you take control of everything. You 
 
 # Setup
 
+### Deploying to IBM Bluemix(IBM Cloud):
+Step 1:
